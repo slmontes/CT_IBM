@@ -11,10 +11,10 @@ The preset parameters are stored in 'params_het_CT.mat'.
 
 
 # Previous versions and their repositories
-Author of first MSM model:  Adam Zienkiewicz, 2016 (adamziek@gmail.com)   University of Bristol
+MSM model:  Adam Zienkiewicz, 2016 (adamziek@gmail.com)   University of Bristol
 Last update:   20/10/16
 http://data.bris.ac.uk/data/dataset/3erdo698eboli2ptxi324rsuhg
 
-Author of initial heterosexual version model: Nicolas Verschueren, 2018 (https://nverschueren.github.io/)   University of Bristol
+Initial heterosexual version model: Nicolas Verschueren, 2018 (https://nverschueren.github.io/)   University of Bristol
 Last update:   May/18
 https://bitbucket.org/nverschueren/amr_het/src/master/
