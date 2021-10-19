@@ -13,8 +13,8 @@
 %   4) (SIL)(maroon): Used by the computer (SILico) but not relevant for the model.
 %--------------------------EXAMPLE---------------------------------------
 %
-%           The CT model can be run using the script 'het_test.m' in the local
-%           directory. The parameters are stored in 'params_het.m'
+%           The CT model can be run using the script 'CTmodel_Test.m' in the local
+%           directory. The parameters are stored in 'params_het_CT.m'
 %
 %--------------------------------end of the update NVv
 %
