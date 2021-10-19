@@ -8,7 +8,7 @@ simulate targeted scenarios on a sexually active heterosexual pupolation, with t
 # Example
 The CT_IBM_2021 class can be run using the script 'CTmodel_Test.m'.
 The preset parameters are stored in 'params_het_CT.mat'.
-
+Additionally, an auto generated file with the "help" can be obtained by typing 'doc CT_IBM_2021' on the command window.
 
 # Previous versions and their repositories
 MSM model:  Adam Zienkiewicz, 2016 (adamziek@gmail.com)   University of Bristol
